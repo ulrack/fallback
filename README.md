@@ -22,7 +22,7 @@ with multiple [Fallback](src/Component/Fallback.php)s.
 
 A fallback can be created by providing it with a callable, a (optional) validator
 and a (optional) set of parameters. The callable will be executed when it is
-reached inside the stack. The validator (see: [ulrack/validator](/ulrack/validator))
+reached inside the stack. The validator (see package: ulrack/validator)
 will be used to verify the output of the callable. The parameters are variadic
 and will override the parameters send by the stack.
 
