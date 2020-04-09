@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: this package has been moved and improved at [grizz-it/fallback](https://github.com/grizz-it/fallback)
+
 [![Build Status](https://travis-ci.com/ulrack/fallback.svg?branch=master)](https://travis-ci.com/ulrack/fallback)
 
 # Ulrack Fallback
